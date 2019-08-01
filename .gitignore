@@ -32,3 +32,6 @@ build/
 
 ### mvn ###
 .mvn
+
+### log ###
+logs/
